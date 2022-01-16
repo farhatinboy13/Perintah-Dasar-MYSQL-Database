@@ -1,0 +1,7 @@
+ALTER TABLE Persons
+ADD UNIQUE (ID);
+
+##atau##
+
+ALTER TABLE Persons
+ADD CONSTRAINT UC_Person UNIQUE (ID,LastName);
