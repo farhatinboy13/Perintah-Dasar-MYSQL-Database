@@ -1,0 +1,2 @@
+ALTER TABLE Persons
+MODIFY Age int NOT NULL;
