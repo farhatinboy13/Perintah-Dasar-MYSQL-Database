@@ -1,0 +1,6 @@
+CREATE TABLE nama_table (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
